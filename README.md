@@ -1,3 +1,3 @@
-# numerical-modeling-analysis-python
+# numerical-modeling-analysis-programming
 
-Repository to store learned python skills. Mainly for scientific data analysis.
+Repository to store learned Python/Matlab skills. Mainly for scientific data analysis.
